@@ -1,6 +1,6 @@
 -- FLP 2019/2020
--- Funkcionalni projekt
--- SIMPLIFY-BKG
+-- FIT VUT BRNO, [FLP] Functional programming project
+-- SIMPLIFY-CFG
 -- Author: Andrej Nano (xnanoa00)
 
 -- Required modules
